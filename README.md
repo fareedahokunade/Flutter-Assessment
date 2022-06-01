@@ -256,4 +256,4 @@ Response Explanation
     }
 }
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/20148618-55c18473-f6ba-4b96-9a9a-4f1f2067feaa?action=collection%2Ffork&collection-url=entityId%3D20148618-55c18473-f6ba-4b96-9a9a-4f1f2067feaa%26entityType%3Dcollection%26workspaceId%3D30f17627-6b2e-4f12-baff-c5fa34fd8e0c)
+
