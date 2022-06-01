@@ -256,4 +256,6 @@ Response Explanation
     }
 }
 
-
+N:B: Switch MONGO URI and test with PostMan
+Key for  body of endpoint: lannister/endpoint is Pcs
+Key for  body of endpoint: lannister/computation is Payload
